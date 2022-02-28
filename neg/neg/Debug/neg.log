@@ -1,0 +1,11 @@
+﻿  FilterGamma.cpp
+d:\σχολη\2nd trial\c++\εργασια c++\neg\filtergamma.cpp(37): warning C4018: '<': signed/unsigned mismatch
+d:\σχολη\2nd trial\c++\εργασια c++\neg\filtergamma.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  FilterLinear.cpp
+d:\σχολη\2nd trial\c++\εργασια c++\neg\filterlinear.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\σχολη\2nd trial\c++\εργασια c++\neg\filterlinear.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  functions.cpp
+  Image.cpp
+  main.cpp
+  Generating Code...
+  neg.vcxproj -> D:\Σχολη\2nd Trial\C++\Εργασια C++\neg\Debug\filterd.exe

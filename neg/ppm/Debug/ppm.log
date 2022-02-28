@@ -1,0 +1,4 @@
+﻿  ppm.cpp
+d:\σχολη\2nd trial\c++\εργασια c++\neg\ppm\ppm.cpp(81): warning C4018: '<': signed/unsigned mismatch
+d:\σχολη\2nd trial\c++\εργασια c++\neg\ppm\ppm.cpp(82): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  ppm.vcxproj -> D:\Σχολη\2nd Trial\C++\Εργασια C++\neg\ppm\ppm_d.lib
